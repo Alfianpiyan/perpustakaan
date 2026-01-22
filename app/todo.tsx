@@ -24,7 +24,7 @@ export default function todoList() {
   const [input, setInput] = useState("");
   const [loading, setLoading] = useState(false);
 
-  // ===== TAMBAHAN DARI FOTO (LOAD TODO) =====
+// ini yang buat load nya 
   async function loadTodo() {
     const storedTodo = await AsyncStorage.getItem("todo");
     if (storedTodo) {
