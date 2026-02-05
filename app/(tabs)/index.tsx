@@ -295,7 +295,7 @@ export default function BooksPage() {
               </View>
 
               <TextInput
-                label="Judul Buku *"
+                label="Judul Buku"
                 mode="outlined"
                 activeOutlineColor="#15518a"
                 outlineColor="#e5e7eb"
