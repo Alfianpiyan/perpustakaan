@@ -73,7 +73,7 @@ export default function ProfilePage() {
                 fontWeight: 'bold', 
                 color: '#ffffff' 
               }}>
-                24
+                5
               </Text>
               <Text style={{ fontSize: 12, color: '#93c5fd' }}>
                 Buku Dibaca
@@ -89,7 +89,7 @@ export default function ProfilePage() {
                 fontWeight: 'bold', 
                 color: '#ffffff' 
               }}>
-                5
+                4
               </Text>
               <Text style={{ fontSize: 12, color: '#93c5fd' }}>
                 Dipinjam

@@ -211,13 +211,13 @@ export default function BooksPage() {
                     flexDirection: 'row', 
                     alignItems: 'center', 
                     justifyContent: 'space-between' 
-                  }}>
+                    }}>
                     <View style={{ 
                       backgroundColor: 'rgba(21, 81, 138, 0.1)', 
                       paddingHorizontal: 8, 
                       paddingVertical: 4, 
                       borderRadius: 6 
-                    }}>
+                      }}>
                       <Text style={{ 
                         fontSize: 10, 
                         color: '#15518a', 
